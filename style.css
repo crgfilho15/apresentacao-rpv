@@ -189,6 +189,8 @@ a {
     /* justify-content: flex-start;
     align-items: flex-start; */
     /* height: 100%; */
+    font-size: 1.6vw;
+    width: 100%;
 }
 
 .title-text-card li {
