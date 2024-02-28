@@ -58,6 +58,10 @@ a:hover {
     text-align: center;
 }
 
+.title h1 {
+    font-size: 2.5vw;
+}
+
 .nav-buttons {
     width: 50%;
 }
@@ -78,6 +82,7 @@ li {
     border-radius: 10px;
     list-style-type: none;
     font-size: 1.5vw;
+    margin-top: 10px;
 }
 
 .button-list:hover {
